@@ -22,6 +22,5 @@ public class Problema5_PromEst {
             System.out.println(nomEst + "\t" + promedio + "\t\t" + estado);
             cont ++;
         }
-        
     }
 }
